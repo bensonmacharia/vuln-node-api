@@ -5,5 +5,6 @@
 ### Run locally
 
 - Install and configure docker first, and then
+- Run `cp .env.example .env`
 - Run `npm install`
 - `docker-compose up --build -d`
